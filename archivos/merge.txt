@@ -1,3 +1,6 @@
 Maria Paula Ardila Otero
 19
 Aprobar la materia de manera satisfactoria a la vez que aprendo nuevas cosas
+Se subio el commit porque la carpeta no esta vacia
+
+Porque habra un conflicto y si estoy trabajando en equipo podrìa eliminar el trabajo que hicieron mis compañeros
